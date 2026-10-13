@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://p-8bdbb6ee15.ycsc1688.cn/sitemap.xml
